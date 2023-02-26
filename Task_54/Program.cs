@@ -11,8 +11,6 @@
 8 4 4 2
 */
 
-using System.Collections;
-
 int[,] InitMatrix()
 {
     int[,] array = new int[3, 4];
